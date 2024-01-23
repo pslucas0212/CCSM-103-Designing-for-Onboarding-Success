@@ -52,7 +52,33 @@ There are different models for onboarding new customers.
 2. Guided implementation.  Have a project, with processes, meetings and calls.  A team based approach with you and the customer. Maybe onboarding team or customer success team depending on your organization.  This a one-on-one approach
 3. Hybrid - combination of guided and self-guide.
 
-## Common Mistakes
+## Common Mistakes - Top Mistakes to avoid
+Things don't always go smoothly with onboarding.  Here are some common reasons why.
+1. Not nailinng the handoffs between sales to onboarding or customer success.  On between onboarding and customer success.
+2. Too many cooks in the kitchens.  Having too many individuals in the process and who does what and have ownership
+3. Not undder standing or adpating to the customer's definition of success.  Onboarding must be specific to the customer.
+4. Driving towards your definition of success and not the customer's definition of success.
+5. Not have a well defined playbook
+6. Not setting clear KPIs to demonstrate progress towards success
+7. Failing to generate a shared accountabilit mindset with your customer
+8. Failing to "bed" in new habits.  Any onboarding is a change of habits and the customer needs to learn new habits.  How do you help your customer in to forming these new habits.
 
-7. 
+## Designing Your Onboarding Playbook
+There are ten stages that are common to most onboarding playbooks.  Each stage will require more granular information like who does what when.
+
+### Playbook Stages
+1. Knowledge Transfer - Some informaion about the customer, what they are interested, what they purchased, etc.   This information needs to be passed on to the onbaording team from the acquisition team.
+2. Expectation Setting. - Set expectations with the customer.  Reaffirem expectations set by sales team,  May need to reset expectations for implementation
+3. Discovery and validation of objectives - Why has the customer engaged with your company.  May have already been collected by the acquisition team.
+4. Agreement of success definition.  What does success look like for the customer after 1 month, 6 months, 1 year, 2 years, etc.  Want to get to success.
+5. Metrics/KPI Agreeement - How  are we sure have succeeded?  Look for metrics/KPIs that can be measured internally (your company)  that are shared both have visibility into the metrics.  Put these in the success plan and measure and track on regular cadence
+6. Account configuration/setup - prepare the software with the settings/data to get software ready for day-to-day customer usage.  This con be done by the customer, pro services team or Customer Success team.  This may be completed in minutes or months
+7. User training/education - Need to understand how the product impacts their day-to-day job.  Training maybe via in-person or low tech touch.
+8. Rollout/go-live - could be low-tech touch or more hands-on activity.  Moment in time when the end-user changes from what they were doing in the past to the new way.
+9. Change management - make sure that after rollout/go-live the customer continues to use the product.  Make it a habit.  part of their daily routine.   Adopt any changes that have been made.  May take days, weeks or months. Reinforce good habits.  Help clear road blocks.  Using product as you expect.
+10. Project wrap-up & feedback.  
+
+
+
+
 
